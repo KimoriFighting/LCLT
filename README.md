@@ -1,3 +1,2 @@
 # LCLT
-The code for the LCLT paper\n
-The code will only be uploaded later
+The code for the LCLT paper, which will be uploaded later
